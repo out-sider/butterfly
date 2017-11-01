@@ -1,6 +1,5 @@
-![Screenshot](https://github.com/ladybug-tools/butterfly/blob/master/etc/graphics/logo/butterfly_100px.png)
-
-[![Code Health](https://landscape.io/github/ladybug-tools/butterfly/master/landscape.svg?style=flat)](https://landscape.io/github/ladybug-tools/butterfly/master)
+Here are modified butterfly(https://github.com/ladybug-tools/butterfly) and some examples.
+The main purpose of this fork is to manipulate OpenFOAM with Python3 on demand.
 
 Butterfly
 ========================================
@@ -10,10 +9,7 @@ A light python API for creating and running [OpenFoam](http://www.openfoam.org/)
 
 API documentation
 ========================================
-[Butterfly](http://ladybug-tools.github.io/butterfly/doc/butterfly).
+[Butterfly](http://www.ladybug.tools/butterfly/doc/butterfly/).
 
-[Butterfly Grasshopper](http://ladybug-tools.github.io/butterfly/doc/butterfly_grasshopper).
-
-[Butterfly Dynamo](http://ladybug-tools.github.io/butterfly/doc/butterfly_dynamo/)
 
 @license GPL-3.0+ <http://spdx.org/licenses/GPL-3.0+>

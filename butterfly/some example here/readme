@@ -1,0 +1,12 @@
+The 'try.py' file is a script that modifies OpenFOAM files and runs OpenFOAM.
+It does such things:
+	1.copies files from existing example
+	2.makes dirs for mutli-parameter calculating
+	3.set setFieldDict file with parameter water_percent:	system/setFieldDict
+	4.modifies the gravity file with parameter g:			constant/g
+	5.sets controlDict file with parameter time:			system/controlDict
+	6.runs OpenFOAM to calculate for certain time
+	7.does 3-6 with different value
+	8.get p data from a certain face with numpy, and store them in files
+
+You can modify try.py file on your own demand.
